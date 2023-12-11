@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **React, and React Native, and anything related to JavaScript**.
 
-- 🌱 I’m currently learning **Next.js, and Unit Test(Jest)**.
+- 🌱 I’m currently learning **Next.js, and ESlint, and Husky**.
 
 - 💬 Ask me about **React, React Native or anything about Front-End Development**.
 
