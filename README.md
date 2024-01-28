@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Güney</h1>
 <h3 align="center">I'm a Front-End Developer</h3>
 
-- 🔭 I’m currently working on **React, and React Native, and anything related to JavaScript**.
+- 🔭 I’m currently working on **['React', 'React Native', 'Next', 'Angular'], and anything related to JavaScript/TypeScript**.
 
-- 🌱 I’m currently learning **Next.js, and ESlint, and Husky**.
+- 🌱 I’m currently learning **Angular**.
 
-- 💬 Ask me about **React, React Native or anything about Front-End Development**.
+- 💬 Ask me about **React, React Native, Next or anything about Front-End Development**.
 
 - 📫 If you want to reach me, send an e-mail to **benguneyeroglu@gmail.com**.
 
@@ -40,6 +40,9 @@
   </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" />
+  </a>
+   <a href="https://angular.io/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg" alt="angular" width="40" height="40" />
   </a>
   <a href="https://material-ui.com/" target="_blank" rel="”noopener”">
     <img
