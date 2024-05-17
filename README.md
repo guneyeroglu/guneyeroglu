@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Güney</h1>
 <h3 align="center">I'm a Front-End Developer</h3>
 
-- 🔭 I’m currently working on **['React', 'React Native', 'Next', 'Angular'], and anything related to JavaScript/TypeScript**.
+- 🔭 I’m currently working on **['JavaScript/TypeScript', 'React', 'React Native', 'Next', 'Angular', 'Golang', 'Node.js'], and anything related to web/mobile development**.
 
-- 🌱 I’m currently learning **Angular**.
+- 🌱 I’m currently learning **Golang and Fiber**.
 
 - 💬 Ask me about **React, React Native, Next or anything about Front-End Development**.
 
@@ -43,6 +43,9 @@
   </a>
    <a href="https://angular.io/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg" alt="angular" width="40" height="40" />
+  </a>
+   <a href="https://go.dev/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/go-8.svg" alt="golang" width="40" height="40" />
   </a>
   <a href="https://material-ui.com/" target="_blank" rel="”noopener”">
     <img
